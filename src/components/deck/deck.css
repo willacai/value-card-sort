@@ -1,0 +1,24 @@
+.deck-container {
+    background-color: #13546d;
+    margin: 2rem 2rem 2rem 2rem;
+    width: 15vh;
+    height: 20vh;
+    border: 0.2rem black solid;
+    border-radius: 2rem;
+    color: white;
+    align-items: center;
+}
+.deck-container:focus, .deck-container:hover {
+    outline: lightskyblue 0.5rem solid;
+}
+
+.deck-container:active {
+    background-color: #789caa;
+    box-shadow: inset;
+}
+
+.deck-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    height: 70%;
+}
