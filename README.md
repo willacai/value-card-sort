@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Value Card Sort
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app lets you create a [value card-sort](https://www.guilford.com/add/miller11_old/pers_val.pdf?t), a tool used in [Motivational Interviewing](https://motivationalinterviewing.org/understanding-motivational-interviewing) therapy.
 
 ## Available Scripts
 
